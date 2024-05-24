@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.team-matches-container {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.team-banner {
+  width: 100%;
+}
+.latest-match-text {
+  font-size: 18px;
+  color: #fff;
+  text-align: left;
+}
+.latest-match-container {
+  background-color: #1e293b;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 15px;
+}
+.match-card-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px;
+}
